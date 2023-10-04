@@ -9,3 +9,7 @@
 - The Logistic Regression model emerged as the top performer with an accuracy of 82%.
 
 #### This is one of my tasks as a Data Science Intern at the virtual internship from [**Bharat Intern**](https://www.linkedin.com/company/bharat-intern).
+
+
+# You also can see the code on [**Kaggle**](https://www.kaggle.com):
+https://www.kaggle.com/abdelrahmanahmed110/titanic-survival-prediction
